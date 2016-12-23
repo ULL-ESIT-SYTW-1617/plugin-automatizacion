@@ -1,0 +1,45 @@
+{
+    "name": "subir-nube-vagos",
+    "version": "0.0.7",
+    "description": "Plugin para subir a dropbox el README convertido a PDF",
+    "main": "index.js",
+    "scripts": {
+        "build": "babel -d build/ src/",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ULL-ESIT-SYTW-1617/plugin-automatizacion.git"
+    },
+    "keywords": [
+        "Plugin",
+        "Dropbox"
+    ],
+    "contributors": [{
+        "name": "Aitor Bernal Falcon"
+    }, {
+        "name": "Samuel Ramos Barroso"
+    }, {
+        "name": "Joshua Perez Garcia"
+    }],
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ULL-ESIT-SYTW-1617/plugin-automatizacion/issues"
+    },
+    "homepage": "https://github.com/ULL-ESIT-SYTW-1617/plugin-automatizacion#readme",
+    "devDependencies": {
+        "babel-cli": "^6.18.0",
+        "babel-core": "^6.20.0",
+        "babel-preset-es2015": "^6.18.0",
+        "babel-preset-stage-0": "^6.16.0",
+        "gulp": "^3.9.1",
+        "gulp-babel": "^6.1.2"
+    },
+    "dependencies": {
+        "babel-polyfill": "^6.20.0",
+        "dropbox": "^2.5.0",
+        "inquirer": "^2.0.0",
+        "markdown-pdf": "^7.0.0",
+        "remarkable-classy": "0.0.1"
+    }
+}
