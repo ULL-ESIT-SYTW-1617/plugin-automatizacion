@@ -1,6 +1,6 @@
 {
     "name": "subir-nube-vagos",
-    "version": "0.0.7",
+    "version": "0.0.8",
     "description": "Plugin para subir a dropbox el README convertido a PDF",
     "main": "index.js",
     "scripts": {
