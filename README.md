@@ -25,4 +25,4 @@ Este plugin de Automatización de github para vagos es una herramienta para gene
 * [Repositorio de entrega](https://github.com/ULL-ESIT-SYTW-1617/proyecto-sytw-16-17-aitor-joshua-samuel)
 * [Repositorio de entrega del plugin](https://www.npmjs.com/package/subir-nube-vagos)
 * [Enlace a NPM del paquete](https://www.npmjs.com/package/automatizacion-github-para-vagos)
-* [Enlace a NPM del paquete](https://www.npmjs.com/package/subir-nube-vagos)
+* [Enlace a NPM del plugin](https://www.npmjs.com/package/subir-nube-vagos)
